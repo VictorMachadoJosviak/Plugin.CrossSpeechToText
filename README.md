@@ -1,9 +1,11 @@
-# Plugin.CrossSpeechToText
+<img align="left" src="https://i.imgur.com/bep823D.png" width="100" height="100"> <h1 style="margin-left:50px">Plugin.CrossSpeechToText</h1>
+
 
 
 A plugin where you can easily convert spoken audio to text
 
 
+# Getting Started
 
 | Platform | Description |
 | --- | --- |
