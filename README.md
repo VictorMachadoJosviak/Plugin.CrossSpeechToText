@@ -34,3 +34,7 @@ In your MainActivity.cs
  }
  
 ```
+# Screenshots
+<img align="left" src="https://i.imgur.com/rZJSPzd.png" width="225" height="400">
+<img align="left" src="https://i.imgur.com/Jk2fDPs.png" width="225" height="400">
+
