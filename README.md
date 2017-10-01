@@ -7,6 +7,9 @@ A plugin where you can easily convert spoken audio to text
 
 # Getting Started
 
+### NuGet - Install-Package Plugin.CrossSpeechToText -Version 1.0.0
+### NuGet url - https://www.nuget.org/packages/Plugin.CrossSpeechToText/1.0.0
+
 | Platform | Description |
 | --- | --- |
 | `Android` | OK |
