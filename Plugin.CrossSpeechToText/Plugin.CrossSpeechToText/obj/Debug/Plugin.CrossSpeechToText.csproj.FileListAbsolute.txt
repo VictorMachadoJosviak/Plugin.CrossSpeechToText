@@ -1,0 +1,14 @@
+C:\Users\Victor\source\repos\Plugin.CrossSpeechToText\Plugin.CrossSpeechToText\Plugin.CrossSpeechToText\bin\Debug\Plugin.CrossSpeechToText.dll
+C:\Users\Victor\source\repos\Plugin.CrossSpeechToText\Plugin.CrossSpeechToText\Plugin.CrossSpeechToText\bin\Debug\Plugin.CrossSpeechToText.pdb
+C:\Users\Victor\source\repos\Plugin.CrossSpeechToText\Plugin.CrossSpeechToText\Plugin.CrossSpeechToText\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Victor\source\repos\Plugin.CrossSpeechToText\Plugin.CrossSpeechToText\Plugin.CrossSpeechToText\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Victor\source\repos\Plugin.CrossSpeechToText\Plugin.CrossSpeechToText\Plugin.CrossSpeechToText\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Victor\source\repos\Plugin.CrossSpeechToText\Plugin.CrossSpeechToText\Plugin.CrossSpeechToText\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Victor\source\repos\Plugin.CrossSpeechToText\Plugin.CrossSpeechToText\Plugin.CrossSpeechToText\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Victor\source\repos\Plugin.CrossSpeechToText\Plugin.CrossSpeechToText\Plugin.CrossSpeechToText\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Victor\source\repos\Plugin.CrossSpeechToText\Plugin.CrossSpeechToText\Plugin.CrossSpeechToText\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Victor\source\repos\Plugin.CrossSpeechToText\Plugin.CrossSpeechToText\Plugin.CrossSpeechToText\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Victor\source\repos\Plugin.CrossSpeechToText\Plugin.CrossSpeechToText\Plugin.CrossSpeechToText\obj\Debug\Plugin.CrossSpeechToText.csprojResolveAssemblyReference.cache
+C:\Users\Victor\source\repos\Plugin.CrossSpeechToText\Plugin.CrossSpeechToText\Plugin.CrossSpeechToText\obj\Debug\Plugin.CrossSpeechToText.csproj.CoreCompileInputs.cache
+C:\Users\Victor\source\repos\Plugin.CrossSpeechToText\Plugin.CrossSpeechToText\Plugin.CrossSpeechToText\obj\Debug\Plugin.CrossSpeechToText.dll
+C:\Users\Victor\source\repos\Plugin.CrossSpeechToText\Plugin.CrossSpeechToText\Plugin.CrossSpeechToText\obj\Debug\Plugin.CrossSpeechToText.pdb
